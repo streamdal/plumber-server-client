@@ -2,7 +2,10 @@ module github.com/batchcorp/plumber-server-client
 
 go 1.17
 
-require github.com/batchcorp/plumber-schemas v0.0.130
+require (
+	github.com/batchcorp/plumber-schemas v0.0.132
+	google.golang.org/grpc v1.40.0
+)
 
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
@@ -10,6 +13,5 @@ require (
 	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd // indirect
 	golang.org/x/text v0.3.0 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
-	google.golang.org/grpc v1.40.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
