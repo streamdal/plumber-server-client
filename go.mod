@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/batchcorp/plumber-schemas v0.0.153
-	google.golang.org/grpc v1.44.0
+	google.golang.org/grpc v1.45.0
 )
 
 require (
