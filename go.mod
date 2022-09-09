@@ -3,7 +3,7 @@ module github.com/batchcorp/plumber-server-client
 go 1.17
 
 require (
-	github.com/batchcorp/plumber-schemas v0.0.165
+	github.com/batchcorp/plumber-schemas v0.0.166
 	google.golang.org/grpc v1.49.0
 )
 
