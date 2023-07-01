@@ -1,4 +1,4 @@
-# github.com/batchcorp/plumber-schemas v0.0.181
+# github.com/batchcorp/plumber-schemas v0.0.182
 ## explicit; go 1.16
 github.com/batchcorp/plumber-schemas/build/go/protos
 github.com/batchcorp/plumber-schemas/build/go/protos/args
